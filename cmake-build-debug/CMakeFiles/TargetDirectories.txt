@@ -1,0 +1,3 @@
+/home/mint/CLionProjects/Chat/cmake-build-debug/CMakeFiles/Chat.dir
+/home/mint/CLionProjects/Chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mint/CLionProjects/Chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

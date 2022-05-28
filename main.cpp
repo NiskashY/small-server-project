@@ -47,7 +47,7 @@ int main() {
     while (question != "exit") {
         question = GetUserQuestion();
         isFoundAnswer = false;
-        for (auto &[key, value]: answers_data_base) {
+        for (const auto &[key, value]: answers_data_base) {
             if (IsMatch(question, key)) {
                 ShowBotReply(value);
                 isFoundAnswer = true;
